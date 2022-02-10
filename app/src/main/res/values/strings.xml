@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LogIn API REST</string>
+    <string name="main_login">Login</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="main_type_login">Login</string>
+    <string name="main_type_register">Register</string>
+    <string name="main_error_server">Request error</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile_fragment">Profile</string>
+    <string name="user_name">User name</string>
+    <string name="user_email">Email</string>
+</resources>
